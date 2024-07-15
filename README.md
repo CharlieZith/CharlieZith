@@ -1,9 +1,12 @@
 ### 🦊 CharlieZith
 
-I'm a passionate full-stack developer crafting digital solutions and bringing ideas to life. 
-My projects are born from concept to code, tackling real-world challenges along the way. 
-Always learning, always building – one commit at a time.
+I'm a passionate full-stack developer crafting digital solutions and bringing ideas to life. All coding projects are built from the ground up.
 
 ---
 
 ### ⚒ Languages and Tools
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
