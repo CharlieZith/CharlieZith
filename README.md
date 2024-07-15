@@ -2,7 +2,7 @@
 
 I'm a passionate full-stack developer crafting digital solutions and bringing ideas to life. All coding projects are built from the ground up.
 
----
+#
 
 ### ⚒ Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
