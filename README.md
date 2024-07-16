@@ -1,6 +1,6 @@
-### 🦊 CharlieZith
+### 🦊 Charlie
 
-I'm a passionate full-stack developer crafting digital solutions and bringing ideas to life. All coding projects are built from the ground up.
+I'm a versatile software engineer specializing in data analytics and DevOps, with a strong background in full-stack development. I craft comprehensive digital solutions, from data-driven insights to robust infrastructure. My projects are meticulously built from the ground up, ensuring quality and efficiency at every level.
 
 #
 
